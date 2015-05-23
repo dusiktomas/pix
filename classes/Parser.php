@@ -1,5 +1,6 @@
 <?php
 class Parser {
+  /* This class is working with for XpathCover */
 
   private $xpathCover = Null;
   private $xpathQueryMap = array(

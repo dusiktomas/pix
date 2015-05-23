@@ -1,5 +1,6 @@
 <?php
 class XpathCover {
+  /* This class is cover for Xpath */
 
   private $xpathResult = Null;
 
